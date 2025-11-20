@@ -10,6 +10,6 @@ A pasta `media` contém o vídeo demonstrativo do protótipo.
 
 ## Observações
 
-O vídeo não pôde ser devidamente carregado no GitHub, mais intruções no `README.txt` dentro da pasta `media`.
+O vídeo não pôde ser devidamente carregado no GitHub, mais instruções no `README.txt` dentro da pasta `media`.
 
 Para teste do protótipo, é necessário apenas compilar e executar o código através de uma IDE de preferência. Para os nossos testes foi utilizado o `VS Code`.
